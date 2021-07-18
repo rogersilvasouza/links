@@ -1,6 +1,6 @@
 # Links
 
-🔗 Página com links úteis para minhas redes sociais, contatos e alguns do ensaios que desenvolvi como fotógrafo.
+🔗 Página com links úteis para minhas redes sociais, contatos e alguns dos ensaios que desenvolvi como fotógrafo.
 
 **Disponível em:** [rssouzaph.com/links](https://rssouzaph.com/links)
 
