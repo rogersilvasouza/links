@@ -1,11 +1,15 @@
 # Links
 
-🔗 Página listando links para minhas redes sociais, contatos e alguns do ensaios que desenvolvi.
+🔗 Página com links úteis para minhas redes sociais, contatos e alguns do ensaios que desenvolvi como fotógrafo.
 
 **Disponível em:** [rssouzaph.com/links](https://rssouzaph.com/links)
 
-Projeto forkado do Guilherme Balog em [Links Guilherme Balog](https://github.com/GuilhermeBalog/links)
-
 ## Screenshot
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.jpg)
+
+## Agradecimento
+
+Projeto forkado de Guilherme Balog em [Links Guilherme Balog](https://github.com/GuilhermeBalog/links).
+
+Muito obrigado Guilherme por disponibilizar o código fonte desse projeto.
