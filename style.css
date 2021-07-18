@@ -46,13 +46,14 @@ header p {
   font-weight: 300;
   font-size: 1.25rem;
   margin-bottom: 0.25rem;
-  color: #525252;
 }
 
 header h1 {
   font-weight: 700;
   font-size: 2rem;
   line-height: 85%;
+  /* color: #525252; */
+  color: #0f95c8;
 }
 
 nav {
@@ -98,8 +99,8 @@ i {
   font-size: 1.5rem;
 }
 
-#linkedin {
-  --link-color: #0e76a8;
+#whatsapp {
+  --link-color: #25d366;
 }
 
 #github {
@@ -110,10 +111,30 @@ i {
   --link-color: #e1206c;
 }
 
+#port500px {
+  --link-color: #000000;
+}
+
 #portfolio {
-  --link-color: #673ab7;
+  --link-color: #8b0000;
 }
 
 #blog {
   --link-color: #673ab7;
+}
+
+#ensaios {
+  --link-color: #e1ad01;
+}
+
+#pinterest {
+  --link-color: #e60023;
+}
+
+#kit {
+  --link-color: #9e9e9e;
+}
+
+#spotify {
+  --link-color: #1db954;
 }
