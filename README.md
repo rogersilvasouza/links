@@ -1,10 +1,10 @@
 # Links
 
-🔗 Página listando links para minhas redes sociais e alguns de meus projetos.
+🔗 Página listando links para minhas redes sociais, contatos e alguns do ensaios que desenvolvi.
 
-**Disponível em:** [guilhermebalog.ga/links](https://guilhermebalog.ga/links)
+**Disponível em:** [rssouzaph.com/links](https://rssouzaph.com/links)
 
-Feito com HTML e CSS, [prototipado no Figma](https://www.figma.com/file/uhoeOqBSYolGLiv0R8zwb6/Links?node-id=0%3A1)
+Projeto forkado do Guilherme Balog em [Links Guilherme Balog](https://github.com/GuilhermeBalog/links)
 
 ## Screenshot
 
