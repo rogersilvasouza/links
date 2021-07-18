@@ -110,6 +110,10 @@ i {
   --link-color: #e1206c;
 }
 
+#instagram-pessoal {
+  --link-color: #c13584;
+}
+
 #port500px {
   --link-color: #000000;
 }
@@ -136,4 +140,8 @@ i {
 
 #spotify {
   --link-color: #1db954;
+}
+
+#email {
+  --link-color: #ce93d8;
 }
