@@ -6,7 +6,7 @@
 
 ## Screenshot
 
-![Screenshot](screenshot.jpg)
+![Screenshot](imgs/screenshot.jpg)
 
 ## Agradecimento
 
