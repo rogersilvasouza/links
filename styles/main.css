@@ -160,3 +160,19 @@ i {
 .new {
   --link-color: #1d2327;
 }
+
+#tiktok {
+  --link-color: #69c9d0;
+}
+
+#pamelafotografias {
+  --link-color: #db0083;
+}
+
+#youtube {
+  --link-color: #c4302b;
+}
+
+#vimeo {
+  --link-color: #86c9ef;
+}
